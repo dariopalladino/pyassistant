@@ -1,0 +1,8 @@
+openai
+requests
+pyaudio
+pyttsx3
+speechrecognition
+whisper
+gTTS
+playsound

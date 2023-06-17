@@ -1,0 +1,20 @@
+{
+    "whisper": {
+        "model_size": "small"
+    },
+    "ttsx3":{
+        "driverName": "espeak"
+    },
+    "openai": {
+        "key":"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"
+    },    
+    "assistant": {
+        "gender": "male",
+        "male":{
+            "name": "Victor"
+        },
+        "female":{
+            "name": "Janis"
+        }
+    }
+}
