@@ -6,7 +6,7 @@
         "driverName": "espeak"
     },
     "openai": {
-        "key":"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"
+        "key":""
     },    
     "assistant": {
         "gender": "male",
